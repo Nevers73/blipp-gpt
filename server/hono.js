@@ -3,7 +3,9 @@ import { trpcServer } from "@hono/trpc-server";
 import { cors } from "hono/cors";
 
 import { appRouter } from "./trpc/app-router.js";
-import { createContext } from "trpc/create-context.js";
+
+import { createContext } from "./trpc/create-context.js";
+
 
 const app = new Hono();
 
