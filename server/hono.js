@@ -7,7 +7,7 @@ import superjson from "superjson";
 
 const app = new Hono();
 
-// --- CORS obligatoire (sinon erreurs dans la console OVH) ---
+// --- CORS GLOBAL ---
 app.use(
   "*",
   cors({
@@ -17,9 +17,9 @@ app.use(
   })
 );
 
-// --- TRPC mounted correctly ---
+// --- TRPC MOUNTED ON /api ---
 app.use(
-  "/api/trpc/*",
+  "/api/*",
   trpcServer({
     router: appRouter,
     createContext,
