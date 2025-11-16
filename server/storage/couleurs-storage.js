@@ -2,7 +2,8 @@
 import path from "path";
 import { promises as fs } from "fs";
 
-const DATA_DIR = path.join(process.cwd(), "server", "storage", "data");
+const DATA_DIR = path.join(process.cwd(), "server", "data", "couleurs");
+
 
 // Fichiers JSON à charger
 const FILES = {
