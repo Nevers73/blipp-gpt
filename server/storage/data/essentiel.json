@@ -1,0 +1,109 @@
+[
+  {"id":"e1","gouttesA":0,"gouttesB":0,"gouttesC":1,"L":83,"A":18,"B":7,"hex":"#f5c2c2","categorie":"essentiel"},
+  {"id":"e2","gouttesA":0,"gouttesB":1,"gouttesC":0,"L":61,"A":49,"B":-7,"hex":"#dd6ea1","categorie":"essentiel"},
+  {"id":"e3","gouttesA":1,"gouttesB":0,"gouttesC":0,"L":23,"A":22,"B":15,"hex":"#592821","categorie":"essentiel"},
+
+  {"id":"e4","gouttesA":0,"gouttesB":0,"gouttesC":2,"L":83,"A":18,"B":7,"hex":"#f5c2c2","categorie":"essentiel"},
+  {"id":"e5","gouttesA":0,"gouttesB":1,"gouttesC":1,"L":72,"A":33.5,"B":0,"hex":"#ea99b1","categorie":"essentiel"},
+  {"id":"e6","gouttesA":0,"gouttesB":2,"gouttesC":0,"L":61,"A":49,"B":-7,"hex":"#dd6ea1","categorie":"essentiel"},
+
+  {"id":"e7","gouttesA":1,"gouttesB":0,"gouttesC":1,"L":53,"A":20,"B":11,"hex":"#a5716c","categorie":"essentiel"},
+  {"id":"e8","gouttesA":1,"gouttesB":1,"gouttesC":0,"L":42,"A":35.5,"B":4,"hex":"#99495d","categorie":"essentiel"},
+  {"id":"e9","gouttesA":2,"gouttesB":0,"gouttesC":0,"L":23,"A":22,"B":15,"hex":"#592821","categorie":"essentiel"},
+
+  {"id":"e10","gouttesA":0,"gouttesB":0,"gouttesC":3,"L":83,"A":18,"B":7,"hex":"#f5c2c2","categorie":"essentiel"},
+  {"id":"e11","gouttesA":0,"gouttesB":1,"gouttesC":2,"L":75.67,"A":28.33,"B":2.33,"hex":"#eea7b7","categorie":"essentiel"},
+  {"id":"e12","gouttesA":0,"gouttesB":2,"gouttesC":1,"L":68.33,"A":38.67,"B":-2.33,"hex":"#e68bac","categorie":"essentiel"},
+  {"id":"e13","gouttesA":0,"gouttesB":3,"gouttesC":0,"L":61,"A":49,"B":-7,"hex":"#dd6ea1","categorie":"essentiel"},
+
+  {"id":"e14","gouttesA":1,"gouttesB":0,"gouttesC":2,"L":63,"A":19.33,"B":9.67,"hex":"#bf8b88","categorie":"essentiel"},
+  {"id":"e15","gouttesA":1,"gouttesB":1,"gouttesC":1,"L":55.67,"A":29.67,"B":5,"hex":"#b8717d","categorie":"essentiel"},
+  {"id":"e16","gouttesA":1,"gouttesB":2,"gouttesC":0,"L":48.33,"A":40,"B":0.33,"hex":"#af5573","categorie":"essentiel"},
+
+  {"id":"e17","gouttesA":2,"gouttesB":0,"gouttesC":1,"L":43,"A":20.67,"B":12.33,"hex":"#8b5852","categorie":"essentiel"},
+  {"id":"e18","gouttesA":2,"gouttesB":1,"gouttesC":0,"L":35.67,"A":31,"B":7.67,"hex":"#833e48","categorie":"essentiel"},
+
+  {"id":"e19","gouttesA":3,"gouttesB":0,"gouttesC":0,"L":23,"A":22,"B":15,"hex":"#592821","categorie":"essentiel"},
+
+  {"id":"e20","gouttesA":0,"gouttesB":0,"gouttesC":4,"L":83,"A":18,"B":7,"hex":"#f5c2c2","categorie":"essentiel"},
+  {"id":"e21","gouttesA":0,"gouttesB":1,"gouttesC":3,"L":77.5,"A":25.75,"B":3.5,"hex":"#efaeb9","categorie":"essentiel"},
+  {"id":"e22","gouttesA":0,"gouttesB":2,"gouttesC":2,"L":72,"A":33.5,"B":0,"hex":"#ea99b1","categorie":"essentiel"},
+  {"id":"e23","gouttesA":0,"gouttesB":3,"gouttesC":1,"L":66.5,"A":41.25,"B":-3.5,"hex":"#e484a9","categorie":"essentiel"},
+  {"id":"e24","gouttesA":0,"gouttesB":4,"gouttesC":0,"L":61,"A":49,"B":-7,"hex":"#dd6ea1","categorie":"essentiel"},
+
+  {"id":"e25","gouttesA":1,"gouttesB":0,"gouttesC":3,"L":68,"A":19,"B":9,"hex":"#cc9996","categorie":"essentiel"},
+  {"id":"e26","gouttesA":1,"gouttesB":1,"gouttesC":2,"L":62.5,"A":26.75,"B":5.5,"hex":"#c7858e","categorie":"essentiel"},
+  {"id":"e27","gouttesA":1,"gouttesB":2,"gouttesC":1,"L":57,"A":34.5,"B":2,"hex":"#c17086","categorie":"essentiel"},
+  {"id":"e28","gouttesA":1,"gouttesB":3,"gouttesC":0,"L":51.5,"A":42.25,"B":-1.5,"hex":"#bb5b7e","categorie":"essentiel"},
+
+  {"id":"e29","gouttesA":2,"gouttesB":0,"gouttesC":2,"L":53,"A":20,"B":11,"hex":"#a5716c","categorie":"essentiel"},
+  {"id":"e30","gouttesA":2,"gouttesB":1,"gouttesC":1,"L":47.5,"A":27.75,"B":7.5,"hex":"#9f5d65","categorie":"essentiel"},
+  {"id":"e31","gouttesA":2,"gouttesB":2,"gouttesC":0,"L":42,"A":35.5,"B":4,"hex":"#99495d","categorie":"essentiel"},
+
+  {"id":"e32","gouttesA":3,"gouttesB":0,"gouttesC":1,"L":38,"A":21,"B":13,"hex":"#7f4b45","categorie":"essentiel"},
+  {"id":"e33","gouttesA":3,"gouttesB":1,"gouttesC":0,"L":32.5,"A":28.75,"B":9.5,"hex":"#79383e","categorie":"essentiel"},
+
+  {"id":"e34","gouttesA":4,"gouttesB":0,"gouttesC":0,"L":23,"A":22,"B":15,"hex":"#592821","categorie":"essentiel"},
+
+  {"id":"e35","gouttesA":0,"gouttesB":0,"gouttesC":5,"L":83,"A":18,"B":7,"hex":"#f5c2c2","categorie":"essentiel"},
+  {"id":"e36","gouttesA":0,"gouttesB":1,"gouttesC":4,"L":78.6,"A":24.2,"B":4.2,"hex":"#f1b2bb","categorie":"essentiel"},
+  {"id":"e37","gouttesA":0,"gouttesB":2,"gouttesC":3,"L":74.2,"A":30.4,"B":1.4,"hex":"#eca1b4","categorie":"essentiel"},
+  {"id":"e38","gouttesA":0,"gouttesB":3,"gouttesC":2,"L":69.8,"A":36.6,"B":-1.4,"hex":"#e791ae","categorie":"essentiel"},
+  {"id":"e39","gouttesA":0,"gouttesB":4,"gouttesC":1,"L":65.4,"A":42.8,"B":-4.2,"hex":"#e27fa7","categorie":"essentiel"},
+  {"id":"e40","gouttesA":0,"gouttesB":5,"gouttesC":0,"L":61,"A":49,"B":-7,"hex":"#dd6ea1","categorie":"essentiel"},
+
+  {"id":"e41","gouttesA":1,"gouttesB":0,"gouttesC":4,"L":71,"A":18.8,"B":8.6,"hex":"#d4a19e","categorie":"essentiel"},
+  {"id":"e42","gouttesA":1,"gouttesB":1,"gouttesC":3,"L":66.6,"A":25,"B":5.8,"hex":"#d09198","categorie":"essentiel"},
+  {"id":"e43","gouttesA":1,"gouttesB":2,"gouttesC":2,"L":62.2,"A":31.2,"B":3,"hex":"#cc8192","categorie":"essentiel"},
+  {"id":"e44","gouttesA":1,"gouttesB":3,"gouttesC":1,"L":57.8,"A":37.4,"B":0.2,"hex":"#c7708b","categorie":"essentiel"},
+  {"id":"e45","gouttesA":1,"gouttesB":4,"gouttesC":0,"L":53.4,"A":43.6,"B":-2.6,"hex":"#c15f85","categorie":"essentiel"},
+
+  {"id":"e46","gouttesA":2,"gouttesB":0,"gouttesC":3,"L":59,"A":19.6,"B":10.2,"hex":"#b5807d","categorie":"essentiel"},
+  {"id":"e47","gouttesA":2,"gouttesB":1,"gouttesC":2,"L":54.6,"A":25.8,"B":7.4,"hex":"#b07176","categorie":"essentiel"},
+  {"id":"e48","gouttesA":2,"gouttesB":2,"gouttesC":1,"L":50.2,"A":32,"B":4.6,"hex":"#ac6170","categorie":"essentiel"},
+  {"id":"e49","gouttesA":2,"gouttesB":3,"gouttesC":0,"L":45.8,"A":38.2,"B":1.8,"hex":"#a6506a","categorie":"essentiel"},
+
+  {"id":"e50","gouttesA":3,"gouttesB":0,"gouttesC":2,"L":47,"A":20.4,"B":11.8,"hex":"#96625c","categorie":"essentiel"},
+  {"id":"e51","gouttesA":3,"gouttesB":1,"gouttesC":1,"L":42.6,"A":26.6,"B":9,"hex":"#915256","categorie":"essentiel"},
+  {"id":"e52","gouttesA":3,"gouttesB":2,"gouttesC":0,"L":38.2,"A":32.8,"B":6.2,"hex":"#8c4251","categorie":"essentiel"},
+
+  {"id":"e53","gouttesA":4,"gouttesB":0,"gouttesC":1,"L":35,"A":21.2,"B":13.4,"hex":"#77443d","categorie":"essentiel"},
+  {"id":"e54","gouttesA":4,"gouttesB":1,"gouttesC":0,"L":30.6,"A":27.4,"B":10.6,"hex":"#723538","categorie":"essentiel"},
+
+  {"id":"e55","gouttesA":5,"gouttesB":0,"gouttesC":0,"L":23,"A":22,"B":15,"hex":"#592821","categorie":"essentiel"},
+
+  {"id":"e56","gouttesA":0,"gouttesB":0,"gouttesC":6,"L":83,"A":18,"B":7,"hex":"#f5c2c2","categorie":"essentiel"},
+  {"id":"e57","gouttesA":0,"gouttesB":1,"gouttesC":5,"L":79.33,"A":23.17,"B":4.67,"hex":"#f1b4bc","categorie":"essentiel"},
+  {"id":"e58","gouttesA":0,"gouttesB":2,"gouttesC":4,"L":75.67,"A":28.33,"B":2.33,"hex":"#eea7b7","categorie":"essentiel"},
+  {"id":"e59","gouttesA":0,"gouttesB":3,"gouttesC":3,"L":72,"A":33.5,"B":0,"hex":"#ea99b1","categorie":"essentiel"},
+  {"id":"e60","gouttesA":0,"gouttesB":4,"gouttesC":2,"L":68.33,"A":38.67,"B":-2.33,"hex":"#e68bac","categorie":"essentiel"},
+  {"id":"e61","gouttesA":0,"gouttesB":5,"gouttesC":1,"L":64.67,"A":43.83,"B":-4.67,"hex":"#e17da6","categorie":"essentiel"},
+  {"id":"e62","gouttesA":0,"gouttesB":6,"gouttesC":0,"L":61,"A":49,"B":-7,"hex":"#dd6ea1","categorie":"essentiel"},
+
+  {"id":"e63","gouttesA":1,"gouttesB":0,"gouttesC":5,"L":73,"A":18.67,"B":8.33,"hex":"#daa6a4","categorie":"essentiel"},
+  {"id":"e64","gouttesA":1,"gouttesB":1,"gouttesC":4,"L":69.33,"A":23.83,"B":6,"hex":"#d6999f","categorie":"essentiel"},
+  {"id":"e65","gouttesA":1,"gouttesB":2,"gouttesC":3,"L":65.67,"A":29,"B":3.67,"hex":"#d38b9a","categorie":"essentiel"},
+  {"id":"e66","gouttesA":1,"gouttesB":3,"gouttesC":2,"L":62,"A":34.17,"B":1.33,"hex":"#cf7e94","categorie":"essentiel"},
+  {"id":"e67","gouttesA":1,"gouttesB":4,"gouttesC":1,"L":58.33,"A":39.33,"B":-1,"hex":"#ca708f","categorie":"essentiel"},
+  {"id":"e68","gouttesA":1,"gouttesB":5,"gouttesC":0,"L":54.67,"A":44.5,"B":-3.33,"hex":"#c66189","categorie":"essentiel"},
+
+  {"id":"e69","gouttesA":2,"gouttesB":0,"gouttesC":4,"L":63,"A":19.33,"B":9.67,"hex":"#bf8b88","categorie":"essentiel"},
+  {"id":"e70","gouttesA":2,"gouttesB":1,"gouttesC":3,"L":59.33,"A":24.5,"B":7.33,"hex":"#bc7e83","categorie":"essentiel"},
+  {"id":"e71","gouttesA":2,"gouttesB":2,"gouttesC":2,"L":55.67,"A":29.67,"B":5,"hex":"#b8717d","categorie":"essentiel"},
+  {"id":"e72","gouttesA":2,"gouttesB":3,"gouttesC":1,"L":52,"A":34.83,"B":2.67,"hex":"#b46378","categorie":"essentiel"},
+  {"id":"e73","gouttesA":2,"gouttesB":4,"gouttesC":0,"L":48.33,"A":40,"B":0.33,"hex":"#af5573","categorie":"essentiel"},
+
+  {"id":"e74","gouttesA":3,"gouttesB":0,"gouttesC":3,"L":53,"A":20,"B":11,"hex":"#a5716c","categorie":"essentiel"},
+  {"id":"e75","gouttesA":3,"gouttesB":1,"gouttesC":2,"L":49.33,"A":25.17,"B":8.67,"hex":"#a16467","categorie":"essentiel"},
+  {"id":"e76","gouttesA":3,"gouttesB":2,"gouttesC":1,"L":45.67,"A":30.33,"B":6.33,"hex":"#9d5762","categorie":"essentiel"},
+  {"id":"e77","gouttesA":3,"gouttesB":3,"gouttesC":0,"L":42,"A":35.5,"B":4,"hex":"#99495d","categorie":"essentiel"},
+
+  {"id":"e78","gouttesA":4,"gouttesB":0,"gouttesC":2,"L":43,"A":20.67,"B":12.33,"hex":"#8b5852","categorie":"essentiel"},
+  {"id":"e79","gouttesA":4,"gouttesB":1,"gouttesC":1,"L":39.33,"A":25.83,"B":10,"hex":"#874b4d","categorie":"essentiel"},
+  {"id":"e80","gouttesA":4,"gouttesB":2,"gouttesC":0,"L":35.67,"A":31,"B":7.67,"hex":"#833e48","categorie":"essentiel"},
+
+  {"id":"e81","gouttesA":5,"gouttesB":0,"gouttesC":1,"L":33,"A":21.33,"B":13.67,"hex":"#723f39","categorie":"essentiel"},
+  {"id":"e82","gouttesA":5,"gouttesB":1,"gouttesC":0,"L":29.33,"A":26.5,"B":11.33,"hex":"#6e3334","categorie":"essentiel"},
+
+  {"id":"e83","gouttesA":6,"gouttesB":0,"gouttesC":0,"L":23,"A":22,"B":15,"hex":"#592821","categorie":"essentiel"}
+]

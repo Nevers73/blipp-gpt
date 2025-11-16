@@ -1,0 +1,108 @@
+[
+  {"id":"i1","gouttesA":0,"gouttesB":0,"gouttesC":1,"L":40,"A":55,"B":45,"hex":"#b42615","categorie":"iconique"},
+  {"id":"i2","gouttesA":0,"gouttesB":1,"gouttesC":0,"L":50,"A":70,"B":45,"hex":"#e6252e","categorie":"iconique"},
+  {"id":"i3","gouttesA":1,"gouttesB":0,"gouttesC":0,"L":82,"A":20,"B":10,"hex":"#f7beba","categorie":"iconique"},
+
+  {"id":"i4","gouttesA":0,"gouttesB":0,"gouttesC":2,"L":40,"A":55,"B":45,"hex":"#b42615","categorie":"iconique"},
+  {"id":"i5","gouttesA":0,"gouttesB":1,"gouttesC":1,"L":45,"A":62.5,"B":45,"hex":"#cd2622","categorie":"iconique"},
+  {"id":"i6","gouttesA":0,"gouttesB":2,"gouttesC":0,"L":50,"A":70,"B":45,"hex":"#e6252e","categorie":"iconique"},
+
+  {"id":"i7","gouttesA":1,"gouttesB":0,"gouttesC":1,"L":61,"A":37.5,"B":27.5,"hex":"#db7664","categorie":"iconique"},
+  {"id":"i8","gouttesA":1,"gouttesB":1,"gouttesC":0,"L":66,"A":45,"B":27.5,"hex":"#f57c71","categorie":"iconique"},
+  {"id":"i9","gouttesA":2,"gouttesB":0,"gouttesC":0,"L":82,"A":20,"B":10,"hex":"#f7beba","categorie":"iconique"},
+
+  {"id":"i10","gouttesA":0,"gouttesB":0,"gouttesC":3,"L":40,"A":55,"B":45,"hex":"#b42615","categorie":"iconique"},
+  {"id":"i11","gouttesA":0,"gouttesB":1,"gouttesC":2,"L":43.33,"A":60,"B":45,"hex":"#c4261e","categorie":"iconique"},
+  {"id":"i12","gouttesA":0,"gouttesB":2,"gouttesC":1,"L":46.67,"A":65,"B":45,"hex":"#d52626","categorie":"iconique"},
+  {"id":"i13","gouttesA":0,"gouttesB":3,"gouttesC":0,"L":50,"A":70,"B":45,"hex":"#e6252e","categorie":"iconique"},
+
+  {"id":"i14","gouttesA":1,"gouttesB":0,"gouttesC":2,"L":54,"A":43.33,"B":33.33,"hex":"#cf5e49","categorie":"iconique"},
+  {"id":"i15","gouttesA":1,"gouttesB":1,"gouttesC":1,"L":57.33,"A":48.33,"B":33.33,"hex":"#e06152","categorie":"iconique"},
+  {"id":"i16","gouttesA":1,"gouttesB":2,"gouttesC":0,"L":60.67,"A":53.33,"B":33.33,"hex":"#f1655a","categorie":"iconique"},
+
+  {"id":"i17","gouttesA":2,"gouttesB":0,"gouttesC":1,"L":68,"A":31.67,"B":21.67,"hex":"#e68e80","categorie":"iconique"},
+  {"id":"i18","gouttesA":2,"gouttesB":1,"gouttesC":0,"L":71.33,"A":36.67,"B":21.67,"hex":"#f79389","categorie":"iconique"},
+  {"id":"i19","gouttesA":3,"gouttesB":0,"gouttesC":0,"L":82,"A":20,"B":10,"hex":"#f7beba","categorie":"iconique"},
+
+  {"id":"i20","gouttesA":0,"gouttesB":0,"gouttesC":4,"L":40,"A":55,"B":45,"hex":"#b42615","categorie":"iconique"},
+  {"id":"i21","gouttesA":0,"gouttesB":1,"gouttesC":3,"L":42.5,"A":58.75,"B":45,"hex":"#c0261c","categorie":"iconique"},
+  {"id":"i22","gouttesA":0,"gouttesB":2,"gouttesC":2,"L":45,"A":62.5,"B":45,"hex":"#cd2622","categorie":"iconique"},
+  {"id":"i23","gouttesA":0,"gouttesB":3,"gouttesC":1,"L":47.5,"A":66.25,"B":45,"hex":"#d92628","categorie":"iconique"},
+  {"id":"i24","gouttesA":0,"gouttesB":4,"gouttesC":0,"L":50,"A":70,"B":45,"hex":"#e6252e","categorie":"iconique"},
+
+  {"id":"i25","gouttesA":1,"gouttesB":0,"gouttesC":3,"L":50.5,"A":46.25,"B":36.25,"hex":"#c9513c","categorie":"iconique"},
+  {"id":"i26","gouttesA":1,"gouttesB":1,"gouttesC":2,"L":53,"A":50,"B":36.25,"hex":"#d55443","categorie":"iconique"},
+  {"id":"i27","gouttesA":1,"gouttesB":2,"gouttesC":1,"L":55.5,"A":53.75,"B":36.25,"hex":"#e25649","categorie":"iconique"},
+  {"id":"i28","gouttesA":1,"gouttesB":3,"gouttesC":0,"L":58,"A":57.5,"B":36.25,"hex":"#ef584f","categorie":"iconique"},
+
+  {"id":"i29","gouttesA":2,"gouttesB":0,"gouttesC":2,"L":61,"A":37.5,"B":27.5,"hex":"#db7664","categorie":"iconique"},
+  {"id":"i30","gouttesA":2,"gouttesB":1,"gouttesC":1,"L":63.5,"A":41.25,"B":27.5,"hex":"#e8796b","categorie":"iconique"},
+  {"id":"i31","gouttesA":2,"gouttesB":2,"gouttesC":0,"L":66,"A":45,"B":27.5,"hex":"#f57c71","categorie":"iconique"},
+
+  {"id":"i32","gouttesA":3,"gouttesB":0,"gouttesC":1,"L":71.5,"A":28.75,"B":18.75,"hex":"#eb9a8e","categorie":"iconique"},
+  {"id":"i33","gouttesA":3,"gouttesB":1,"gouttesC":0,"L":74,"A":32.5,"B":18.75,"hex":"#f89e95","categorie":"iconique"},
+
+  {"id":"i34","gouttesA":4,"gouttesB":0,"gouttesC":0,"L":82,"A":20,"B":10,"hex":"#f7beba","categorie":"iconique"},
+
+  {"id":"i35","gouttesA":0,"gouttesB":0,"gouttesC":5,"L":40,"A":55,"B":45,"hex":"#b42615","categorie":"iconique"},
+  {"id":"i36","gouttesA":0,"gouttesB":1,"gouttesC":4,"L":42,"A":58,"B":45,"hex":"#be261a","categorie":"iconique"},
+  {"id":"i37","gouttesA":0,"gouttesB":2,"gouttesC":3,"L":44,"A":61,"B":45,"hex":"#c8261f","categorie":"iconique"},
+  {"id":"i38","gouttesA":0,"gouttesB":3,"gouttesC":2,"L":46,"A":64,"B":45,"hex":"#d22624","categorie":"iconique"},
+  {"id":"i39","gouttesA":0,"gouttesB":4,"gouttesC":1,"L":48,"A":67,"B":45,"hex":"#dc2629","categorie":"iconique"},
+  {"id":"i40","gouttesA":0,"gouttesB":5,"gouttesC":0,"L":50,"A":70,"B":45,"hex":"#e6252e","categorie":"iconique"},
+
+  {"id":"i41","gouttesA":1,"gouttesB":0,"gouttesC":4,"L":48.4,"A":48,"B":38,"hex":"#c54a35","categorie":"iconique"},
+  {"id":"i42","gouttesA":1,"gouttesB":1,"gouttesC":3,"L":50.4,"A":51,"B":38,"hex":"#cf4b3a","categorie":"iconique"},
+  {"id":"i43","gouttesA":1,"gouttesB":2,"gouttesC":2,"L":52.4,"A":54,"B":38,"hex":"#d94d3e","categorie":"iconique"},
+  {"id":"i44","gouttesA":1,"gouttesB":3,"gouttesC":1,"L":54.4,"A":57,"B":38,"hex":"#e34e43","categorie":"iconique"},
+  {"id":"i45","gouttesA":1,"gouttesB":4,"gouttesC":0,"L":56.4,"A":60,"B":38,"hex":"#ed4f48","categorie":"iconique"},
+
+  {"id":"i46","gouttesA":2,"gouttesB":0,"gouttesC":3,"L":56.8,"A":41,"B":31,"hex":"#d46854","categorie":"iconique"},
+  {"id":"i47","gouttesA":2,"gouttesB":1,"gouttesC":2,"L":58.8,"A":44,"B":31,"hex":"#de6a59","categorie":"iconique"},
+  {"id":"i48","gouttesA":2,"gouttesB":2,"gouttesC":1,"L":60.8,"A":47,"B":31,"hex":"#e86c5e","categorie":"iconique"},
+  {"id":"i49","gouttesA":2,"gouttesB":3,"gouttesC":0,"L":62.8,"A":50,"B":31,"hex":"#f36e63","categorie":"iconique"},
+
+  {"id":"i50","gouttesA":3,"gouttesB":0,"gouttesC":2,"L":65.2,"A":34,"B":24,"hex":"#e28575","categorie":"iconique"},
+  {"id":"i51","gouttesA":3,"gouttesB":1,"gouttesC":1,"L":67.2,"A":37,"B":24,"hex":"#ec877a","categorie":"iconique"},
+  {"id":"i52","gouttesA":3,"gouttesB":2,"gouttesC":0,"L":69.2,"A":40,"B":24,"hex":"#f68a7f","categorie":"iconique"},
+
+  {"id":"i53","gouttesA":4,"gouttesB":0,"gouttesC":1,"L":73.6,"A":27,"B":17,"hex":"#eda197","categorie":"iconique"},
+  {"id":"i54","gouttesA":4,"gouttesB":1,"gouttesC":0,"L":75.6,"A":30,"B":17,"hex":"#f8a49c","categorie":"iconique"},
+
+  {"id":"i55","gouttesA":5,"gouttesB":0,"gouttesC":0,"L":82,"A":20,"B":10,"hex":"#f7beba","categorie":"iconique"},
+
+  {"id":"i56","gouttesA":0,"gouttesB":0,"gouttesC":6,"L":40,"A":55,"B":45,"hex":"#b42615","categorie":"iconique"},
+  {"id":"i57","gouttesA":0,"gouttesB":1,"gouttesC":5,"L":41.67,"A":57.5,"B":45,"hex":"#bc2619","categorie":"iconique"},
+  {"id":"i58","gouttesA":0,"gouttesB":2,"gouttesC":4,"L":43.33,"A":60,"B":45,"hex":"#c4261e","categorie":"iconique"},
+  {"id":"i59","gouttesA":0,"gouttesB":3,"gouttesC":3,"L":45,"A":62.5,"B":45,"hex":"#cd2622","categorie":"iconique"},
+  {"id":"i60","gouttesA":0,"gouttesB":4,"gouttesC":2,"L":46.67,"A":65,"B":45,"hex":"#d52626","categorie":"iconique"},
+  {"id":"i61","gouttesA":0,"gouttesB":5,"gouttesC":1,"L":48.33,"A":67.5,"B":45,"hex":"#dd262a","categorie":"iconique"},
+  {"id":"i62","gouttesA":0,"gouttesB":6,"gouttesC":0,"L":50,"A":70,"B":45,"hex":"#e6252e","categorie":"iconique"},
+
+  {"id":"i63","gouttesA":1,"gouttesB":0,"gouttesC":5,"L":47,"A":49.17,"B":39.17,"hex":"#c2442f","categorie":"iconique"},
+  {"id":"i64","gouttesA":1,"gouttesB":1,"gouttesC":4,"L":48.67,"A":51.67,"B":39.17,"hex":"#ca4634","categorie":"iconique"},
+  {"id":"i65","gouttesA":1,"gouttesB":2,"gouttesC":3,"L":50.33,"A":54.17,"B":39.17,"hex":"#d34738","categorie":"iconique"},
+  {"id":"i66","gouttesA":1,"gouttesB":3,"gouttesC":2,"L":52,"A":56.67,"B":39.17,"hex":"#db483c","categorie":"iconique"},
+  {"id":"i67","gouttesA":1,"gouttesB":4,"gouttesC":1,"L":53.67,"A":59.17,"B":39.17,"hex":"#e34940","categorie":"iconique"},
+  {"id":"i68","gouttesA":1,"gouttesB":5,"gouttesC":0,"L":55.33,"A":61.67,"B":39.17,"hex":"#ec4a44","categorie":"iconique"},
+
+  {"id":"i69","gouttesA":2,"gouttesB":0,"gouttesC":4,"L":54,"A":43.33,"B":33.33,"hex":"#cf5e49","categorie":"iconique"},
+  {"id":"i70","gouttesA":2,"gouttesB":1,"gouttesC":3,"L":55.67,"A":45.83,"B":33.33,"hex":"#d8604e","categorie":"iconique"},
+  {"id":"i71","gouttesA":2,"gouttesB":2,"gouttesC":2,"L":57.33,"A":48.33,"B":33.33,"hex":"#e06152","categorie":"iconique"},
+  {"id":"i72","gouttesA":2,"gouttesB":3,"gouttesC":1,"L":59,"A":50.83,"B":33.33,"hex":"#e86356","categorie":"iconique"},
+  {"id":"i73","gouttesA":2,"gouttesB":4,"gouttesC":0,"L":60.67,"A":53.33,"B":33.33,"hex":"#f1655a","categorie":"iconique"},
+
+  {"id":"i74","gouttesA":3,"gouttesB":0,"gouttesC":3,"L":61,"A":37.5,"B":27.5,"hex":"#db7664","categorie":"iconique"},
+  {"id":"i75","gouttesA":3,"gouttesB":1,"gouttesC":2,"L":62.67,"A":40,"B":27.5,"hex":"#e47869","categorie":"iconique"},
+  {"id":"i76","gouttesA":3,"gouttesB":2,"gouttesC":1,"L":64.33,"A":42.5,"B":27.5,"hex":"#ec7a6d","categorie":"iconique"},
+  {"id":"i77","gouttesA":3,"gouttesB":3,"gouttesC":0,"L":66,"A":45,"B":27.5,"hex":"#f57c71","categorie":"iconique"},
+
+  {"id":"i78","gouttesA":4,"gouttesB":0,"gouttesC":2,"L":68,"A":31.67,"B":21.67,"hex":"#e68e80","categorie":"iconique"},
+  {"id":"i79","gouttesA":4,"gouttesB":1,"gouttesC":1,"L":69.67,"A":34.17,"B":21.67,"hex":"#ee9084","categorie":"iconique"},
+  {"id":"i80","gouttesA":4,"gouttesB":2,"gouttesC":0,"L":71.33,"A":36.67,"B":21.67,"hex":"#f79389","categorie":"iconique"},
+
+  {"id":"i81","gouttesA":5,"gouttesB":0,"gouttesC":1,"L":75,"A":25.83,"B":15.83,"hex":"#efa69c","categorie":"iconique"},
+  {"id":"i82","gouttesA":5,"gouttesB":1,"gouttesC":0,"L":76.67,"A":28.33,"B":15.83,"hex":"#f8a8a1","categorie":"iconique"},
+
+  {"id":"i83","gouttesA":6,"gouttesB":0,"gouttesC":0,"L":82,"A":20,"B":10,"hex":"#f7beba","categorie":"iconique"}
+]

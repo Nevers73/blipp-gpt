@@ -1,0 +1,105 @@
+[
+  {"id":"u1","gouttesA":0,"gouttesB":0,"gouttesC":1,"L":54,"A":85,"B":-17,"hex":"#f402a0","categorie":"universelle"},
+  {"id":"u2","gouttesA":0,"gouttesB":1,"gouttesC":0,"L":26,"A":49,"B":21,"hex":"#800020","categorie":"universelle"},
+  {"id":"u3","gouttesA":1,"gouttesB":0,"gouttesC":0,"L":82,"A":22,"B":13,"hex":"#fcbcb4","categorie":"universelle"},
+  {"id":"u4","gouttesA":0,"gouttesB":0,"gouttesC":2,"L":54,"A":85,"B":-17,"hex":"#f402a0","categorie":"universelle"},
+  {"id":"u5","gouttesA":0,"gouttesB":1,"gouttesC":1,"L":40,"A":67,"B":2,"hex":"#ba005d","categorie":"universelle"},
+  {"id":"u6","gouttesA":0,"gouttesB":2,"gouttesC":0,"L":26,"A":49,"B":21,"hex":"#800020","categorie":"universelle"},
+  {"id":"u7","gouttesA":1,"gouttesB":0,"gouttesC":1,"L":68,"A":53.5,"B":-2,"hex":"#fb7bab","categorie":"universelle"},
+  {"id":"u8","gouttesA":1,"gouttesB":1,"gouttesC":0,"L":54,"A":35.5,"B":17,"hex":"#c06765","categorie":"universelle"},
+  {"id":"u9","gouttesA":2,"gouttesB":0,"gouttesC":0,"L":82,"A":22,"B":13,"hex":"#fcbcb4","categorie":"universelle"},
+
+  {"id":"u10","gouttesA":0,"gouttesB":0,"gouttesC":3,"L":54,"A":85,"B":-17,"hex":"#f402a0","categorie":"universelle"},
+  {"id":"u11","gouttesA":0,"gouttesB":1,"gouttesC":2,"L":44.67,"A":73,"B":-4.33,"hex":"#cd0073","categorie":"universelle"},
+  {"id":"u12","gouttesA":0,"gouttesB":2,"gouttesC":1,"L":35.33,"A":61,"B":8.33,"hex":"#a60048","categorie":"universelle"},
+  {"id":"u13","gouttesA":0,"gouttesB":3,"gouttesC":0,"L":26,"A":49,"B":21,"hex":"#800020","categorie":"universelle"},
+  {"id":"u14","gouttesA":1,"gouttesB":0,"gouttesC":2,"L":63.33,"A":64,"B":-7,"hex":"#f962a7","categorie":"universelle"},
+  {"id":"u15","gouttesA":1,"gouttesB":1,"gouttesC":1,"L":54,"A":52,"B":5.67,"hex":"#d25679","categorie":"universelle"},
+  {"id":"u16","gouttesA":1,"gouttesB":2,"gouttesC":0,"L":44.67,"A":40,"B":18.33,"hex":"#ab4a4d","categorie":"universelle"},
+  {"id":"u17","gouttesA":2,"gouttesB":0,"gouttesC":1,"L":72.67,"A":43,"B":3,"hex":"#fc92ae","categorie":"universelle"},
+  {"id":"u18","gouttesA":2,"gouttesB":1,"gouttesC":0,"L":63.33,"A":31,"B":15.67,"hex":"#d5837f","categorie":"universelle"},
+
+  {"id":"u19","gouttesA":3,"gouttesB":0,"gouttesC":0,"L":82,"A":22,"B":13,"hex":"#fcbcb4","categorie":"universelle"},
+
+  {"id":"u20","gouttesA":0,"gouttesB":0,"gouttesC":4,"L":54,"A":85,"B":-17,"hex":"#f402a0","categorie":"universelle"},
+  {"id":"u21","gouttesA":0,"gouttesB":1,"gouttesC":3,"L":47,"A":76,"B":-7.5,"hex":"#d7007e","categorie":"universelle"},
+  {"id":"u22","gouttesA":0,"gouttesB":2,"gouttesC":2,"L":40,"A":67,"B":2,"hex":"#ba005d","categorie":"universelle"},
+  {"id":"u23","gouttesA":0,"gouttesB":3,"gouttesC":1,"L":33,"A":58,"B":11.5,"hex":"#9d003e","categorie":"universelle"},
+  {"id":"u24","gouttesA":0,"gouttesB":4,"gouttesC":0,"L":26,"A":49,"B":21,"hex":"#800020","categorie":"universelle"},
+
+  {"id":"u25","gouttesA":1,"gouttesB":0,"gouttesC":3,"L":61,"A":69.25,"B":-9.5,"hex":"#f854a6","categorie":"universelle"},
+  {"id":"u26","gouttesA":1,"gouttesB":1,"gouttesC":2,"L":54,"A":60.25,"B":0,"hex":"#db4c83","categorie":"universelle"},
+  {"id":"u27","gouttesA":1,"gouttesB":2,"gouttesC":1,"L":47,"A":51.25,"B":9.5,"hex":"#be4461","categorie":"universelle"},
+  {"id":"u28","gouttesA":1,"gouttesB":3,"gouttesC":0,"L":40,"A":42.25,"B":19,"hex":"#a13c41","categorie":"universelle"},
+
+  {"id":"u29","gouttesA":2,"gouttesB":0,"gouttesC":2,"L":68,"A":53.5,"B":-2,"hex":"#fb7bab","categorie":"universelle"},
+  {"id":"u30","gouttesA":2,"gouttesB":1,"gouttesC":1,"L":61,"A":44.5,"B":7.5,"hex":"#de7187","categorie":"universelle"},
+  {"id":"u31","gouttesA":2,"gouttesB":2,"gouttesC":0,"L":54,"A":35.5,"B":17,"hex":"#c06765","categorie":"universelle"},
+
+  {"id":"u32","gouttesA":3,"gouttesB":0,"gouttesC":1,"L":75,"A":37.75,"B":5.5,"hex":"#fc9db0","categorie":"universelle"},
+  {"id":"u33","gouttesA":3,"gouttesB":1,"gouttesC":0,"L":68,"A":28.75,"B":15,"hex":"#df918c","categorie":"universelle"},
+
+  {"id":"u34","gouttesA":4,"gouttesB":0,"gouttesC":0,"L":82,"A":22,"B":13,"hex":"#fcbcb4","categorie":"universelle"},
+
+  {"id":"u35","gouttesA":0,"gouttesB":0,"gouttesC":5,"L":54,"A":85,"B":-17,"hex":"#f402a0","categorie":"universelle"},
+  {"id":"u36","gouttesA":0,"gouttesB":1,"gouttesC":4,"L":48.4,"A":77.8,"B":-9.4,"hex":"#dd0085","categorie":"universelle"},
+  {"id":"u37","gouttesA":0,"gouttesB":2,"gouttesC":3,"L":42.8,"A":70.6,"B":-1.8,"hex":"#c5006a","categorie":"universelle"},
+  {"id":"u38","gouttesA":0,"gouttesB":3,"gouttesC":2,"L":37.2,"A":63.4,"B":5.8,"hex":"#ae0050","categorie":"universelle"},
+  {"id":"u39","gouttesA":0,"gouttesB":4,"gouttesC":1,"L":31.6,"A":56.2,"B":13.4,"hex":"#970038","categorie":"universelle"},
+  {"id":"u40","gouttesA":0,"gouttesB":5,"gouttesC":0,"L":26,"A":49,"B":21,"hex":"#800020","categorie":"universelle"},
+
+  {"id":"u41","gouttesA":1,"gouttesB":0,"gouttesC":4,"L":59.6,"A":72.4,"B":-11,"hex":"#f84aa5","categorie":"universelle"},
+  {"id":"u42","gouttesA":1,"gouttesB":1,"gouttesC":3,"L":54,"A":65.2,"B":-3.4,"hex":"#e04489","categorie":"universelle"},
+  {"id":"u43","gouttesA":1,"gouttesB":2,"gouttesC":2,"L":48.4,"A":58,"B":4.2,"hex":"#c93e6e","categorie":"universelle"},
+  {"id":"u44","gouttesA":1,"gouttesB":3,"gouttesC":1,"L":42.8,"A":50.8,"B":11.8,"hex":"#b13854","categorie":"universelle"},
+  {"id":"u45","gouttesA":1,"gouttesB":4,"gouttesC":0,"L":37.2,"A":43.6,"B":19.4,"hex":"#9a333a","categorie":"universelle"},
+
+  {"id":"u46","gouttesA":2,"gouttesB":0,"gouttesC":3,"L":65.2,"A":59.8,"B":-5,"hex":"#fa6da9","categorie":"universelle"},
+  {"id":"u47","gouttesA":2,"gouttesB":1,"gouttesC":2,"L":59.6,"A":52.6,"B":2.6,"hex":"#e3658d","categorie":"universelle"},
+  {"id":"u48","gouttesA":2,"gouttesB":2,"gouttesC":1,"L":54,"A":45.4,"B":10.2,"hex":"#cb5d71","categorie":"universelle"},
+  {"id":"u49","gouttesA":2,"gouttesB":3,"gouttesC":0,"L":48.4,"A":38.2,"B":17.8,"hex":"#b45656","categorie":"universelle"},
+
+  {"id":"u50","gouttesA":3,"gouttesB":0,"gouttesC":2,"L":70.8,"A":47.2,"B":1,"hex":"#fc89ad","categorie":"universelle"},
+  {"id":"u51","gouttesA":3,"gouttesB":1,"gouttesC":1,"L":65.2,"A":40,"B":8.6,"hex":"#e48090","categorie":"universelle"},
+  {"id":"u52","gouttesA":3,"gouttesB":2,"gouttesC":0,"L":59.6,"A":32.8,"B":16.2,"hex":"#cc7774","categorie":"universelle"},
+
+  {"id":"u53","gouttesA":4,"gouttesB":0,"gouttesC":1,"L":76.4,"A":34.6,"B":7,"hex":"#fca3b1","categorie":"universelle"},
+  {"id":"u54","gouttesA":4,"gouttesB":1,"gouttesC":0,"L":70.8,"A":27.4,"B":14.6,"hex":"#e59994","categorie":"universelle"},
+
+  {"id":"u55","gouttesA":5,"gouttesB":0,"gouttesC":0,"L":82,"A":22,"B":13,"hex":"#fcbcb4","categorie":"universelle"},
+
+  {"id":"u56","gouttesA":0,"gouttesB":0,"gouttesC":6,"L":54,"A":85,"B":-17,"hex":"#f402a0","categorie":"universelle"},
+  {"id":"u57","gouttesA":0,"gouttesB":1,"gouttesC":5,"L":49.33,"A":79,"B":-10.67,"hex":"#e10089","categorie":"universelle"},
+  {"id":"u58","gouttesA":0,"gouttesB":2,"gouttesC":4,"L":44.67,"A":73,"B":-4.33,"hex":"#cd0073","categorie":"universelle"},
+  {"id":"u59","gouttesA":0,"gouttesB":3,"gouttesC":3,"L":40,"A":67,"B":2,"hex":"#ba005d","categorie":"universelle"},
+  {"id":"u60","gouttesA":0,"gouttesB":4,"gouttesC":2,"L":35.33,"A":61,"B":8.33,"hex":"#a60048","categorie":"universelle"},
+  {"id":"u61","gouttesA":0,"gouttesB":5,"gouttesC":1,"L":30.67,"A":55,"B":14.67,"hex":"#930034","categorie":"universelle"},
+  {"id":"u62","gouttesA":0,"gouttesB":6,"gouttesC":0,"L":26,"A":49,"B":21,"hex":"#800020","categorie":"universelle"},
+
+  {"id":"u63","gouttesA":1,"gouttesB":0,"gouttesC":5,"L":58.67,"A":74.5,"B":-12,"hex":"#f743a4","categorie":"universelle"},
+  {"id":"u64","gouttesA":1,"gouttesB":1,"gouttesC":4,"L":54,"A":68.5,"B":-5.67,"hex":"#e33e8d","categorie":"universelle"},
+  {"id":"u65","gouttesA":1,"gouttesB":2,"gouttesC":3,"L":49.33,"A":62.5,"B":0.67,"hex":"#d03a76","categorie":"universelle"},
+  {"id":"u66","gouttesA":1,"gouttesB":3,"gouttesC":2,"L":44.67,"A":56.5,"B":7,"hex":"#bd3560","categorie":"universelle"},
+  {"id":"u67","gouttesA":1,"gouttesB":4,"gouttesC":1,"L":40,"A":50.5,"B":13.33,"hex":"#a9314b","categorie":"universelle"},
+  {"id":"u68","gouttesA":1,"gouttesB":5,"gouttesC":0,"L":35.33,"A":44.5,"B":19.67,"hex":"#962c36","categorie":"universelle"},
+
+  {"id":"u69","gouttesA":2,"gouttesB":0,"gouttesC":4,"L":63.33,"A":64,"B":-7,"hex":"#f962a7","categorie":"universelle"},
+  {"id":"u70","gouttesA":2,"gouttesB":1,"gouttesC":3,"L":58.67,"A":58,"B":-0.67,"hex":"#e65c90","categorie":"universelle"},
+  {"id":"u71","gouttesA":2,"gouttesB":2,"gouttesC":2,"L":54,"A":52,"B":5.67,"hex":"#d25679","categorie":"universelle"},
+  {"id":"u72","gouttesA":2,"gouttesB":3,"gouttesC":1,"L":49.33,"A":46,"B":12,"hex":"#bf5063","categorie":"universelle"},
+  {"id":"u73","gouttesA":2,"gouttesB":4,"gouttesC":0,"L":44.67,"A":40,"B":18.33,"hex":"#ab4a4d","categorie":"universelle"},
+
+  {"id":"u74","gouttesA":3,"gouttesB":0,"gouttesC":3,"L":68,"A":53.5,"B":-2,"hex":"#fb7bab","categorie":"universelle"},
+  {"id":"u75","gouttesA":3,"gouttesB":1,"gouttesC":2,"L":63.33,"A":47.5,"B":4.33,"hex":"#e77593","categorie":"universelle"},
+  {"id":"u76","gouttesA":3,"gouttesB":2,"gouttesC":1,"L":58.67,"A":41.5,"B":10.67,"hex":"#d46e7c","categorie":"universelle"},
+  {"id":"u77","gouttesA":3,"gouttesB":3,"gouttesC":0,"L":54,"A":35.5,"B":17,"hex":"#c06765","categorie":"universelle"},
+
+  {"id":"u78","gouttesA":4,"gouttesB":0,"gouttesC":2,"L":72.67,"A":43,"B":3,"hex":"#fc92ae","categorie":"universelle"},
+  {"id":"u79","gouttesA":4,"gouttesB":1,"gouttesC":1,"L":68,"A":37,"B":9.33,"hex":"#e88a96","categorie":"universelle"},
+  {"id":"u80","gouttesA":4,"gouttesB":2,"gouttesC":0,"L":63.33,"A":31,"B":15.67,"hex":"#d5837f","categorie":"universelle"},
+
+  {"id":"u81","gouttesA":5,"gouttesB":0,"gouttesC":1,"L":77.33,"A":32.5,"B":8,"hex":"#fca8b1","categorie":"universelle"},
+  {"id":"u82","gouttesA":5,"gouttesB":1,"gouttesC":0,"L":72.67,"A":26.5,"B":14.33,"hex":"#e99f99","categorie":"universelle"},
+
+  {"id":"u83","gouttesA":6,"gouttesB":0,"gouttesC":0,"L":82,"A":22,"B":13,"hex":"#fcbcb4","categorie":"universelle"}
+]
