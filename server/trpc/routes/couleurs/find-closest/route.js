@@ -21,14 +21,14 @@ function rgbToLab(r, g, b) {
   const y = (r * 0.2126729 + g * 0.7151522 + b * 0.0721750);
   const z = (r * 0.0193339 + g * 0.1191920 + b * 0.9503041) / 1.08883;
 
-  const fx = x > 0.008856 ? Math.cbrt(x) : (7.787 * x) + 16/116;
-  const fy = y > 0.008856 ? Math.cbrt(y) : (7.787 * y) + 16/116;
-  const fz = z > 0.008856 ? Math.cbrt(z) : (7.787 * z) + 16/116;
+  const fx = x > 0.008856 ? Math.cbrt(x) : (7.787 * x) + 16 / 116;
+  const fy = y > 0.008856 ? Math.cbrt(y) : (7.787 * y) + 16 / 116;
+  const fz = z > 0.008856 ? Math.cbrt(z) : (7.787 * z) + 16 / 116;
 
   return {
-    L: (116 * fy) - 16,
+    L: 116 * fy - 16,
     A: 500 * (fx - fy),
-    B: 200 * (fy - fz)
+    B: 200 * (fy - fz),
   };
 }
 
@@ -38,8 +38,8 @@ function rgbToLab(r, g, b) {
 function deltaE(lab1, lab2) {
   return Math.sqrt(
     (lab1.L - lab2.L) ** 2 +
-    (lab1.A - lab2.A) ** 2 +
-    (lab1.B - lab2.B) ** 2
+      (lab1.A - lab2.A) ** 2 +
+      (lab1.B - lab2.B) ** 2
   );
 }
 
@@ -49,7 +49,6 @@ function deltaE(lab1, lab2) {
 export const findClosestCouleur = publicProcedure
   .input(z.object({ hex: z.string() }))
   .query(async ({ input }) => {
-
     // Nettoyage HEX
     let hexClean = input.hex.replace("#", "").trim();
     if (hexClean.length !== 6) return { couleurs: [] };
@@ -60,25 +59,38 @@ export const findClosestCouleur = publicProcedure
 
     const scannedLab = rgbToLab(r, g, b);
 
-    // Liste des distances
+    // Calcul distances
     const distances = nuances.map((nuance) => {
       const lab = {
-        L: nuance.lab_l,
-        A: nuance.lab_a,
-        B: nuance.lab_b
+        L: Number(nuance.lab_l),
+        A: Number(nuance.lab_a),
+        B: Number(nuance.lab_b),
       };
 
       return {
         ...nuance,
-        delta: deltaE(scannedLab, lab)
+        delta: deltaE(scannedLab, lab),
       };
     });
 
-    // Tri par similarité
+    // Trier
     const sorted = distances.sort((a, b) => a.delta - b.delta);
 
-    // Top 3
-    return {
-      couleurs: sorted.slice(0, 3)
-    };
+    // Retour propre pour le frontend
+    const formatted = sorted.slice(0, 3).map((c) => ({
+      id: String(c.id),
+      hex: c["Couleur HEX"] || c.hex,
+      nom: c["Nom BLiiP"] || c.nom,
+      gouttesA: c["Gouttes A"] ?? 0,
+      gouttesB: c["Gouttes B"] ?? 0,
+      gouttesC: c["Gouttes C"] ?? 0,
+      gouttesD: c["Gouttes D"] ?? 0,
+      gouttesE: c["Gouttes E"] ?? 0,
+      gouttesF: c["Gouttes F"] ?? 0,
+      gouttesG: c["Gouttes G"] ?? 0,
+      gouttesH: c["Gouttes H"] ?? 0,
+      gouttesI: c["Gouttes I"] ?? 0,
+    }));
+
+    return { couleurs: formatted };
   });
