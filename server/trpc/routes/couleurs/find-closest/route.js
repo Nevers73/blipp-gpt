@@ -3,7 +3,7 @@ import { z } from "zod";
 import fs from "fs";
 import path from "path";
 
-// Chargement du fichier nuances.json
+// Chemin vers nuances.json
 const nuancesPath = path.join(process.cwd(), "server/data/nuances.json");
 const nuances = JSON.parse(fs.readFileSync(nuancesPath, "utf8"));
 
@@ -44,23 +44,24 @@ function deltaE(lab1, lab2) {
 }
 
 /* ---------------------------
-   FIND CLOSEST (TOP 3)
+   FIND CLOSEST — TOP 3
 ---------------------------- */
 export const findClosestCouleur = publicProcedure
   .input(z.object({ hex: z.string() }))
   .query(async ({ input }) => {
 
-    // Convertit HEX → RGB
-    const hexClean = input.hex.replace("#", "");
+    // Nettoyage HEX
+    let hexClean = input.hex.replace("#", "").trim();
+    if (hexClean.length !== 6) return { couleurs: [] };
+
     const r = parseInt(hexClean.substring(0, 2), 16);
     const g = parseInt(hexClean.substring(2, 4), 16);
     const b = parseInt(hexClean.substring(4, 6), 16);
 
-    // RGB → Lab
     const scannedLab = rgbToLab(r, g, b);
 
-    // Calcul de la distance avec CHAQUE nuance
-    const distances = nuances.map(nuance => {
+    // Liste des distances
+    const distances = nuances.map((nuance) => {
       const lab = {
         L: nuance.lab_l,
         A: nuance.lab_a,
@@ -73,11 +74,11 @@ export const findClosestCouleur = publicProcedure
       };
     });
 
-    // Tri du plus proche au moins proche
+    // Tri par similarité
     const sorted = distances.sort((a, b) => a.delta - b.delta);
 
-    // Retourne les 3 meilleures correspondances
+    // Top 3
     return {
-      results: sorted.slice(0, 3)  // TOP 3
+      couleurs: sorted.slice(0, 3)
     };
   });
