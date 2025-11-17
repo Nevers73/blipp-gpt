@@ -1,28 +1,24 @@
 import { publicProcedure } from "../../../create-context.js";
+import nuances from "../../../../data/nuances.json" assert { type: "json" };
 import { z } from "zod";
-import fs from "fs";
-import path from "path";
-
-const nuancesPath = path.join(process.cwd(), "server/data/nuances.json");
-const nuances = JSON.parse(fs.readFileSync(nuancesPath, "utf8"));
 
 export const getCouleurById = publicProcedure
-  .input(z.object({ id: z.string() }))
-  .query(async ({ input }) => {
-    const index = Number(input.id) - 1; // 🧠 index dans le tableau
+  .input(
+    z.object({
+      id: z.union([z.string(), z.number()]),
+    })
+  )
+  .query(({ input }) => {
+    const idNum = Number(input.id);
 
-    const found = nuances[index];
+    console.log("🔍 GET BY ID → reçu :", input.id, "→ converti :", idNum);
 
-    if (!found) {
+    const couleur = nuances.find((c) => Number(c.id) === idNum);
+
+    if (!couleur) {
+      console.log("❌ Aucune teinte trouvée pour ID :", idNum);
       throw new Error("Couleur not found");
     }
 
-    return {
-      couleur: {
-        id: input.id, // on renvoie l’ID virtuel
-        nom: found["Nom BLiiP"],
-        hex: found["Couleur HEX"],
-        ...found, // retourne toutes les gouttes
-      },
-    };
+    return { couleur };
   });
