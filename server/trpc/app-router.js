@@ -32,10 +32,10 @@ export const appRouter = createTRPCRouter({
 
   couleurs: createTRPCRouter({
     list: listCouleurs,
-    getById: getCouleurById,
+    getById: getCouleurById,      // 👉 utilisé par TeinteDetail
     getByCategorie: getCouleursByCategorie,
     search: searchCouleurs,
-    findClosest: findClosestCouleur,
+    findClosest: findClosestCouleur,  // 👉 utilisé par ResultatScan
     getCategories,
   }),
 
