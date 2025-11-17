@@ -7,17 +7,24 @@ import superjson from "superjson";
 
 const app = new Hono();
 
-// --- CORS GLOBAL ---
+// --- CORS GLOBAL (FULLY FIXED FOR EXPO + TRPC + RENDER) ---
 app.use(
   "*",
   cors({
-    origin: "*",
-    allowMethods: ["GET", "POST", "OPTIONS"],
-    allowHeaders: ["content-type", "x-session-id"],
+    origin: "*", // autoriser toutes les origines
+    allowMethods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowHeaders: [
+      "content-type",
+      "authorization",
+      "x-session-id",
+      "x-trpc-source",
+    ],
+    exposeHeaders: ["content-type"],
+    maxAge: 86400,
   })
 );
 
-// --- TRPC MOUNTED ON /api ---
+// --- TRPC SUR /api ---
 app.use(
   "/api/*",
   trpcServer({
@@ -27,7 +34,7 @@ app.use(
   })
 );
 
-// Route de test
+// Test endpoint
 app.get("/", (c) => c.text("🔥 Backend TRPC + Hono OK"));
 
 export default app;
