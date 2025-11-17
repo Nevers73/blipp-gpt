@@ -9,10 +9,9 @@ const nuances = JSON.parse(fs.readFileSync(nuancesPath, "utf8"));
 export const getCouleurById = publicProcedure
   .input(z.object({ id: z.string() }))
   .query(async ({ input }) => {
-    const idNum = Number(input.id);
+    const index = Number(input.id) - 1; // 🧠 index dans le tableau
 
-    // Trouver la nuance avec son ID
-    const found = nuances.find((n) => Number(n.id) === idNum);
+    const found = nuances[index];
 
     if (!found) {
       throw new Error("Couleur not found");
@@ -20,23 +19,10 @@ export const getCouleurById = publicProcedure
 
     return {
       couleur: {
-        id: String(found.id),
+        id: input.id, // on renvoie l’ID virtuel
         nom: found["Nom BLiiP"],
         hex: found["Couleur HEX"],
-
-        gouttesA: found["Gouttes A"] ?? 0,
-        gouttesB: found["Gouttes B"] ?? 0,
-        gouttesC: found["Gouttes C"] ?? 0,
-        gouttesD: found["Gouttes D"] ?? 0,
-        gouttesE: found["Gouttes E"] ?? 0,
-        gouttesF: found["Gouttes F"] ?? 0,
-        gouttesG: found["Gouttes G"] ?? 0,
-        gouttesH: found["Gouttes H"] ?? 0,
-        gouttesI: found["Gouttes I"] ?? 0,
-
-        L: found.L,
-        A: found.A,
-        B: found.B,
+        ...found, // retourne toutes les gouttes
       },
     };
   });
